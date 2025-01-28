@@ -3,3 +3,6 @@
 
 ### Code Climate Maintainability status
 [![Maintainability](https://api.codeclimate.com/v1/badges/9ea2631ae270bf9f98d2/maintainability)](https://codeclimate.com/github/nazarisabbot/php-project-45/maintainability)
+
+### Demonstration Brain-Even game
+[![asciinema](https://asciinema.org/a/wEwa1SsNigPWyZQ5SZz7SP1dq.svg)](https://asciinema.org/a/wEwa1SsNigPWyZQ5SZz7SP1dq)
