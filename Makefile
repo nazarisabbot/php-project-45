@@ -13,5 +13,8 @@ brain-games:
 brain-even:
 	./bin/brain-even
 
+brain-gcd:
+	./bin/brain-gcd
+
 brain-calc:
 	./bin/brain-calc

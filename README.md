@@ -13,3 +13,7 @@
 ### Brain-Calculate Game Demonstration
 
 [![asciinema](https://asciinema.org/a/Lx1pZ6ZbhbLKyF6kUJC8RaXJn.svg)](https://asciinema.org/a/Lx1pZ6ZbhbLKyF6kUJC8RaXJn)
+
+### Brain-GCD Game Demonstration
+
+[![asciinema](https://asciinema.org/a/2kA619KVM5P24fL0iaQZ8UuK5.svg)](https://asciinema.org/a/2kA619KVM5P24fL0iaQZ8UuK5)
