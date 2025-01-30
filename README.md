@@ -17,3 +17,7 @@
 ### Brain-GCD Game Demonstration
 
 [![asciinema](https://asciinema.org/a/2kA619KVM5P24fL0iaQZ8UuK5.svg)](https://asciinema.org/a/2kA619KVM5P24fL0iaQZ8UuK5)
+
+### Brain-Progression Game Demonstration
+
+[![asciinema](https://asciinema.org/a/zJV9ndgIXL9X2Q7aMravYNWI1.svg)](https://asciinema.org/a/zJV9ndgIXL9X2Q7aMravYNWI1)

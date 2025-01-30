@@ -18,3 +18,6 @@ brain-gcd:
 
 brain-calc:
 	./bin/brain-calc
+
+brain-progression:
+	./bin/brain-progression
