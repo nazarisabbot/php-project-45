@@ -2,20 +2,12 @@
 
 namespace Hexlet\Code;
 
-function getProgression(int $start, int $end): array
+function getProgression(int $start, int $length, int $step): array
 {
     $resArr = [];
-    $separator = rand(2, 4);
-
-    if (($end - $start) < 10) {
-        $start = 0;
-        $end = 15;
+    for ($i = 0; $i < $length; $i++) {
+        $resArr[] = $start + $i * $step;
     }
-
-    for ($i = $start; $i <= $end; $i += $separator) {
-        $resArr[] = $i;
-    }
-
     return $resArr;
 }
 
