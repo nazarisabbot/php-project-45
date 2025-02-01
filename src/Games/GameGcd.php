@@ -2,7 +2,7 @@
 
 namespace Hexlet\Code;
 
-function getGcd($a, $b): int
+function getGcd(int $a, int $b): int
 {
     return $b ? getGcd($b, $a % $b) : $a;
 }
