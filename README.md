@@ -21,3 +21,7 @@
 ### Brain-Progression Game Demonstration
 
 [![asciinema](https://asciinema.org/a/zJV9ndgIXL9X2Q7aMravYNWI1.svg)](https://asciinema.org/a/zJV9ndgIXL9X2Q7aMravYNWI1)
+
+### Brain-IsPrime Game Demonstration
+
+[![asciinema](https://asciinema.org/a/3vKsbNWkXPj15SBH0hL6PocTx.svg)](https://asciinema.org/a/3vKsbNWkXPj15SBH0hL6PocTx)
