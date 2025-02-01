@@ -4,7 +4,11 @@ namespace Hexlet\Code;
 
 function getGcd(int $a, int $b): int
 {
-    return $b ? getGcd($b, $a % $b) : $a;
+    if ($b === 0) {
+        return $a;
+    }
+
+    return getGcd($b, $a % $b);
 }
 
 function braingcd(): void
