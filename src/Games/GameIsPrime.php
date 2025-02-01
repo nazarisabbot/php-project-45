@@ -2,24 +2,24 @@
 
 namespace Hexlet\Code;
 
-function isPrime(int $n): bool {
+function isPrime(int $n): bool
+{
     if ($n < 2) {
-        return false; 
+        return false;
     }
-    
-    for ($i = 2; $i * $i <= $n; $i++) { 
+
+    for ($i = 2; $i * $i <= $n; $i++) {
         if ($n % $i === 0) {
-            return false; 
+            return false;
         }
     }
-    
-    return true; 
+
+    return true;
 }
 
 function brainIsPrime(): void
 {
-    $generateRound = function(): array
-    {
+    $generateRound = function (): array {
         $question = rand(0, 150);
         $correctAnswer = isPrime($question) === true ? 'yes' : 'no';
         return [$question, $correctAnswer];
